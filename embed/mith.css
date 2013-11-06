@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Sintony);
-@import './icomoon/style.css';
+@import 'http://madeinthehague.urbanlink.nl/embed/icomoon/style.css';
 #madeinthehague{
   font-family:'Sintony',sans-serif;
 }
