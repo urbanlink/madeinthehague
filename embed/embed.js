@@ -7,7 +7,7 @@
     var fileref = document.createElement('link');
     fileref.setAttribute('rel', 'stylesheet');
     fileref.setAttribute('type', 'text/css');
-    fileref.setAttribute('href', 'embed/mith.css');
+    fileref.setAttribute('href', 'http://madeinthehague.urbanlink.nl/embed/mith.css');
     document.getElementsByTagName('head')[0].appendChild(fileref);
     
     //add html

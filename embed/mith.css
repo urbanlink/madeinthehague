@@ -3,12 +3,8 @@
 #madeinthehague{
   font-family:'Sintony',sans-serif;
 }
-#madeinthehague .banner{
-  line-height:28px;
-  vertical-align:middle;
-}
 #madeinthehague .banner a{
-  font-size:28px;
+  font-size:1.5em;
   vertical-align:middle;
   text-decoration:none;
   color:#444;
