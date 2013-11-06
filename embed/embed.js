@@ -12,7 +12,7 @@
     
     //add html
     var h = '<div class="banner"><p>Made with<a href="http://madeinthehague.urbanlink.nl" target="_blank"><span class="icon-reigah"></span></a>in The Hague</p></div>';
-    document.getElementById('example-widget-container').innerHTML = h;
+    document.getElementById('madeinthehague').innerHTML = h;
   };
     
 })();

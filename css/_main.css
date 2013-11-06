@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Sintony);
 @import './icomoon/style.css';
-body{font-family:'Sintony',sans-serif;}
-a{text-decoration:none;color:#444;}a:hover{color:#aaa;}
-.banner{line-height:28px;vertical-align:middle;}.banner a{font-size:28px;vertical-align:middle;}
+#madeinthehague{font-family:'Sintony',sans-serif;}#madeinthehague a{text-decoration:none;color:#444;}#madeinthehague a:hover{color:#aaa;}
+#madeinthehague .banner{line-height:28px;vertical-align:middle;}#madeinthehague .banner a{font-size:28px;vertical-align:middle;}
